@@ -11,7 +11,7 @@ public class VideoManager : MonoBehaviour
     void Awake()
     {
         _videoPlayer.url = _defaultVideoClip;
-        //_videoPlayer.Play();
+        _videoPlayer.Play();
     }
 
     public void Transition(TransitionSpot t)
