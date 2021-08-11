@@ -7,7 +7,7 @@ using UnityEngine.Video;
 public class TransitionSpot : MonoBehaviour
 {
     private Vector3 lookAtPos;
-    public string videoUrl;
+    public string videoClipName;
 
     private void Start()
     {

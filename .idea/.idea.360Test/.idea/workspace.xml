@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1c1e6f-d544-4681-877e-7ab2713b1bd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/360Video.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 1 H264 8K.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 1 H264 8K.mp4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 2 H264 8K.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 2 H264 8K.mp4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TransitionSpot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TransitionSpot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/VideoManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VideoManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Build/docs.data" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Build/docs.framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.framework.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Build/docs.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Videos/paramedic1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Videos/paramedic2.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +25,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransitionSpot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideoManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -66,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628644496307</updated>
-      <workItem from="1628644514620" duration="609000" />
+      <workItem from="1628644514620" duration="3683000" />
     </task>
     <servers />
   </component>
@@ -75,6 +93,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
