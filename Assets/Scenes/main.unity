@@ -595,7 +595,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _videoPlayer: {fileID: 346683862}
-  _defaultVideoClipName: Paramedicine Example 1 H264 8K
+  _defaultVideoClipName: Paramedicine Example 1 H264 4K
 --- !u!1 &351424247
 GameObject:
   m_ObjectHideFlags: 0
@@ -932,7 +932,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45256541db862d442b6c27aaea9f15b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoClipName: Paramedicine Example 2 H264 8K
+  videoClipName: Paramedicine Example 2 H264 4K
 --- !u!4 &1398445281
 Transform:
   m_ObjectHideFlags: 0

@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1c1e6f-d544-4681-877e-7ab2713b1bd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.360Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360Video.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 1 H264 8K.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 1 H264 8K.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 2 H264 8K.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/360Video/Paramedicine Example 2 H264 8K.mp4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TransitionSpot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TransitionSpot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VideoManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VideoManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Build/docs.data" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Build/docs.framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.framework.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Build/docs.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Build/docs.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Videos/paramedic1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Videos/paramedic2.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628644496307</updated>
-      <workItem from="1628644514620" duration="3683000" />
+      <workItem from="1628644514620" duration="4401000" />
     </task>
     <servers />
   </component>

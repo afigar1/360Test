@@ -4,6 +4,8 @@
     <attachedFolders />
     <explicitIncludes>
       <Path>Library/PackageCache/com.unity.collab-proxy@1.7.1</Path>
+      <Path>Library/PackageCache/com.unity.connect.share@4.2.2</Path>
+      <Path>Library/PackageCache/com.unity.editorcoroutines@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@2.0.7</Path>
       <Path>Library/PackageCache/com.unity.ide.visualstudio@2.0.9</Path>
@@ -13,6 +15,7 @@
       <Path>Library/PackageCache/com.unity.render-pipelines.core@10.5.1</Path>
       <Path>Library/PackageCache/com.unity.render-pipelines.universal@10.5.1</Path>
       <Path>Library/PackageCache/com.unity.searcher@4.3.2</Path>
+      <Path>Library/PackageCache/com.unity.settings-manager@1.0.2</Path>
       <Path>Library/PackageCache/com.unity.shadergraph@10.5.1</Path>
       <Path>Library/PackageCache/com.unity.sysroot.linux-x86_64@0.1.14-preview</Path>
       <Path>Library/PackageCache/com.unity.sysroot@0.1.19-preview</Path>
@@ -31,6 +34,7 @@
       <Path>Temp</Path>
       <Path>UserSettings</Path>
       <Path>Videos</Path>
+      <Path>WebGL Builds</Path>
       <Path>docs</Path>
       <Path>obj</Path>
     </explicitExcludes>
